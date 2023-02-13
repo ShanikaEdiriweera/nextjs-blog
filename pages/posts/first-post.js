@@ -1,7 +1,19 @@
+// This file will be no longer used after implementing Dynamic Routes with [id].js
 import Link from 'next/link';
 import Head from 'next/head';
 import Script from 'next/script';
 import Layout from '../../components/layout';
+
+// Server Side Rendering
+// Will default to SSR even without below
+export async function getServerSideProps(context) {
+  console.log('context', context.query);
+  return {
+    props: {
+      // props for your component
+    },
+  };
+}
 
 export default function FirstPost() {
   return (
