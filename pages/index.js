@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Solutions-oriented professional with 4+ years of experience in designing and implementing highly scalable, highly performant, secure, and resilient enterprise systems while adhering to industry standards and best practices. Experienced in the full software lifecycle including requirement analysis, designing, developing, testing, deploying, and monitoring. Experienced in leading technical teams within fast-paced, complex, and technologically advanced settings to deliver high-quality products. Experienced in cultivating partnerships and building lasting relationships with all stakeholders while driving focusing on successful delivery.
+        <p>Solutions-oriented professional with 5+ years of experience in designing and implementing highly scalable, highly performant, secure, and resilient enterprise systems while adhering to industry standards and best practices. Experienced in the full software lifecycle including requirement analysis, designing, developing, testing, deploying, and monitoring. Experienced in leading technical teams within fast-paced, complex, and technologically advanced settings to deliver high-quality products. Experienced in cultivating partnerships and building lasting relationships with all stakeholders while driving focusing on successful delivery.
 </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
